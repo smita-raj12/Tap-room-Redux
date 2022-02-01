@@ -6,7 +6,7 @@
 
   _Smita Rajpurohit_
   
-[https://github.io/smita-raj12/tap-room](https://github.io/smita-raj12/tap-room)
+[https://smita-raj12.github.io/tap-room](https://smita-raj12.github.io/tap-room)
 ## Description
 
 This application have the following functionality:
